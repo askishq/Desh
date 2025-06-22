@@ -42,8 +42,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="channel2" tvg-logo="https://i.postimg.cc/8kbh3tF2/20250620-154233.jpg" group-title="News", My TV
 https://mytvbangla.com/0.m3u8
 
-#EXTINF:-1 tvg-id="channel2" tvg-logo="https://i.postimg.cc/xCnX3VPc/20250620-154503.jpg" group-title="News", Maasranga TV
-http://stvlive.net:8080/maasranga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="channel2" tvg-logo="https://i.postimg.cc/JnVP1NkM/20250619-111943.jpg" group-title="News", ZEE Bangla
+https://live.drmlive-02.workers.dev/zee/0-9-9z5383484.m3u8
 
 #EXTINF:-1 tvg-id="channel2" tvg-logo="https://i.postimg.cc/zvP3NbYg/20250620-154143.jpg" group-title="News", Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
